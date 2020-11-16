@@ -1,0 +1,19 @@
+{
+  "name": "layouts-controllers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruvvet/layouts-controllers.git"
+  },
+  "author": "Jenny Feng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ruvvet/layouts-controllers/issues"
+  },
+  "homepage": "https://github.com/ruvvet/layouts-controllers#readme"
+}

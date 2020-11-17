@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/ruvvet/layouts-controllers/issues"
   },
-  "homepage": "https://github.com/ruvvet/layouts-controllers#readme"
+  "homepage": "https://github.com/ruvvet/layouts-controllers#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "express-ejs-layouts": "^2.5.0"
+  }
 }
